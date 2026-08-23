@@ -2,7 +2,7 @@
 
 I'm an Economics student at the **University of the Philippines Los Baños**, majoring in **Development Economics**.
 
-My interests lie along *development economics, public policy, data science, and AI/data governance*. I am currently studying empirical tools to understand questions related to our institutions and markets, the digital and informal economy, and most importantly, development and social protection.
+My interests lie along *development economics, public policy, data science, and AI/data governance*. I also have been actively working with data and using empirical tools to understand questions related to our institutions and markets, the digital and informal economy, and most importantly, development and social protection.
 
 ## Currently working towards
 
@@ -11,6 +11,11 @@ My interests lie along *development economics, public policy, data science, and 
 * **Making use of computational tools and software for large, complex data and even for research**
 
 I am also working on my undergraduate thesis evaluating the Proxy Means Test and alternative classifiers as poverty targeting tools, with a focus on exclusion and inclusion errors and their geographic distribution.
+
+## Where I've been involved 
+* Won **1st place at BPI DataWave 2025**
+* Philippine Institute for Development Studies, Philippine Data Innovation for Governance, Innovation, Transparency and Sustainability, UP Center for Integrative Studies-Data Science for Public Policy Program, Eskwelabs, UP Data Science Society**
+* Held **leadership positions** in UPLB Data Science Guild and Ekonsepto with several projects
 
 ## Selected work
 I've hosted some previous work here in Github, which lists below:
