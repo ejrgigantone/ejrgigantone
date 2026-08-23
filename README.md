@@ -10,7 +10,7 @@ My interests lie along *development economics, public policy, data science, and 
 * **Exploring Machine learning, AI and Data governance, and the transformative/disruptive aspects of emerging technologies;**
 * **Making use of computational tools and software for large, complex data and even for research purposes**
 
-I am also working on my undergraduate thesis evaluating the Proxy Means Test and alternative classifiers as poverty targeting tools, with a focus on exclusion and inclusion errors and their geographic distribution.
+I am also working on my undergraduate thesis evaluating the Proxy Means Test and alternative classifiers as poverty targeting tools, focusing on exclusion and inclusion errors and their geographic distribution.
 
 ## Where I've been involved 
 * Won **1st place at BPI DataWave 2025** with teammates from UPLB Data Science Guild
