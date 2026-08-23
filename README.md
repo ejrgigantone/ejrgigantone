@@ -13,7 +13,7 @@ My interests lie along *development economics, public policy, data science, and 
 I am also working on my undergraduate thesis evaluating the Proxy Means Test and alternative classifiers as poverty targeting tools, with a focus on exclusion and inclusion errors and their geographic distribution.
 
 ## Where I've been involved 
-* Won **1st place at BPI DataWave 2025**
+* Won **1st place at BPI DataWave 2025** with teammates from UPLB Data Science Guild
 * Philippine Institute for Development Studies<sup>1</sup>, Philippine Data Innovation for Governance, Inclusion, Transparency, and Sustainability (PhilDIGITS)<sup>2</sup>, UP Center for Integrative and Development Studies – Data Science for Public Policy Program<sup>1</sup>, Eskwelabs<sup>3</sup>, UP Data Science Society<sup>4</sup>
 * Held **leadership positions** in UPLB Data Science Guild and Ekonsepto with several projects
 
