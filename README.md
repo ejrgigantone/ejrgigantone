@@ -2,7 +2,7 @@
 
 I'm an Economics undergraduate at the **University of the Philippines Los Baños**, majoring in **Development Economics**.
 
-My interests lies along *development economics, public policy, data science, and AI/data governance*. I enjoy working on social data science projects and using empirical tools to study questions related to the digital economy, our institutions and markets, and most importantly, development and social protection.
+My interests lie along *development economics, public policy, data science, and AI/data governance*. I enjoy working on social data science projects and using empirical tools to study questions related to the digital economy, our institutions and markets, and most importantly, development and social protection.
 
 ## Currently working towards
 
@@ -25,4 +25,5 @@ I like working with different tools either for statistical analysis, data proces
 ## Connect
 
 🌐 [Personal Website](https://ejrgigantone.github.io/)
+
 💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-jr-gigantone/)
