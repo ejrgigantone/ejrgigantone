@@ -1,6 +1,6 @@
 # Hi, I'm Emman 👋
 
-I'm an Economics undergraduate at the **University of the Philippines Los Baños**, majoring in **Development Economics**.
+I'm an Economics student at the **University of the Philippines Los Baños**, majoring in **Development Economics**.
 
 My interests lie along *development economics, public policy, data science, and AI/data governance*. I enjoy working on social data science projects and using empirical tools to study questions related to our institutions and markets, the digital and informal economy, and most importantly, development and social protection.
 
