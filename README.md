@@ -10,7 +10,7 @@ My interests lie along *development economics, public policy, data science, and 
 * **Exploring Machine learning, AI and Data governance, and the transformative/disruptive aspects of emerging technologies;**
 * **Making use of computational tools and software for large, complex data and even for research purposes**
 
-I am also working on my undergraduate thesis evaluating the Proxy Means Test and alternative classifiers as poverty targeting tools, focusing on exclusion and inclusion errors and their geographic distribution.
+I am also writing my undergraduate thesis on evaluating the Proxy Means Test and alternative classifiers as poverty targeting tools, focusing on exclusion and inclusion errors and their geographic distribution.
 
 ## Where I've been involved 
 * <sup>1</sup>Philippine Institute for Development Studies, <sup>2</sup>Philippine Data Innovation for Governance, Inclusion, Transparency, and Sustainability, <sup>1</sup>UP Center for Integrative and Development Studies – Data Science for Public Policy Program, <sup>3</sup>Eskwelabs, <sup>4</sup>UP Data Science Society
