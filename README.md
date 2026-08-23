@@ -22,8 +22,3 @@ I've hosted some previous work here in Github, which lists below:
 I like working with different tools either for statistical analysis, data processing, or visualization. Maps soon!
 * **R · Python · Stata · SQL · Git/GitHub · LaTeX · Looker Studio · Datawrapper**
 
-## Connect
-
-🌐 [Personal Website](https://ejrgigantone.github.io/)
-
-💼 [LinkedIn](https://www.linkedin.com/in/emmanuel-jr-gigantone/)
