@@ -14,9 +14,9 @@ I am also working on my undergraduate thesis evaluating the Proxy Means Test and
 
 ## Selected work
 I've hosted some previous work here in Github, which lists below:
-* **Economics Literacy Survey Insights** — analysis of a national survey on Filipinos' self-reported understanding of economic news
-* **WESM Data Workflow** — processing and analysis of Philippine electricity market data
-* **Municipality-Level Governance Data** — data cleaning, harmonization, and analysis involving public spending and poverty indicators
+* **Economics Literacy Survey Insights** — analysis of a national survey on Filipinos' self-reported understanding of economic news, POM-WR Numero and Ekonsepto
+* **WESM Data Workflow** — processing and analysis of Philippine electricity market data, PIDS and IEMOP
+* **Municipality-Level Governance Data** — data cleaning, harmonization, and analysis involving public spending and poverty indicators, PhilDIGITS
 
 ## Tools
 I like working with different tools either for statistical analysis, data processing, or visualization. Maps soon!
