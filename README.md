@@ -15,8 +15,9 @@ I am also working on my undergraduate thesis evaluating the Proxy Means Test and
 ## Where I've been involved 
 * Won **1st place at BPI DataWave 2025**
 * Philippine Institute for Development Studies<sup>1</sup>, Philippine Data Innovation for Governance, Inclusion, Transparency, and Sustainability (PhilDIGITS)<sup>2</sup>, UP Center for Integrative and Development Studies – Data Science for Public Policy Program<sup>1</sup>, Eskwelabs<sup>3</sup>, UP Data Science Society<sup>4</sup>
-<sup>1</sup> Intern · <sup>2</sup> Part-time Data Checker · <sup>3</sup> Fellow · <sup>4</sup> Member
 * Held **leadership positions** in UPLB Data Science Guild and Ekonsepto with several projects
+
+<sup>1</sup> Intern · <sup>2</sup> Part-time Data Checker & RA · <sup>3</sup> Fellow · <sup>4</sup> Member
 
 ## Selected work
 I've hosted some previous work here in Github, which lists below:
