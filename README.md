@@ -2,13 +2,13 @@
 
 I'm an Economics undergraduate at the **University of the Philippines Los Baños**, majoring in **Development Economics**.
 
-My interests lies along *development economics, public policy, data science, and AI/data governance*. I enjoy working on social data science projects and using empirical tools to study questions related to institutions, markets, and social protection.
+My interests lies along *development economics, public policy, data science, and AI/data governance*. I enjoy working on social data science projects and using empirical tools to study questions related to the digital economy, our institutions and markets, and most importantly, development and social protection.
 
 ## Currently working towards
 
-* Applied policy research using administrative, survey, electoral, and market data
-* Exploring Machine learning, AI governance, responsible AI, and the policy implications of emerging technologies
-* Making use of computational tools and software for research
+* **Applied policy research using administrative, survey, electoral, and market data
+* **Exploring Machine learning, AI governance, responsible AI, and the transformative/disruptive implications of emerging technologies
+* **Making use of computational tools and software for research 
 I am also working on my undergraduate thesis evaluating the Proxy Means Test and alternative classifiers as poverty targeting tools, with a focus on exclusion and inclusion errors and their geographic distribution.
 
 ## Selected work
