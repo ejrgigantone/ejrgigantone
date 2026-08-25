@@ -20,6 +20,7 @@ I am also writing my undergraduate thesis on evaluating the Proxy Means Test and
 <sup>1</sup> Intern · <sup>2</sup> Part-time Data Checker & RA · <sup>3</sup> Fellow · <sup>4</sup> Member
 
 **Some I've worked on**
+
 I've hosted some previous work here in Github, which lists below:
 * **Economics Literacy Survey Insights** - analysis of a national survey on Filipinos' self-reported understanding of economic news, POM-WR Numero and Ekonsepto
 * **WESM Data Workflow** - processing and analysis of Philippine electricity market data, PIDS and IEMOP
