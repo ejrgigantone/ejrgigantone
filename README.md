@@ -28,6 +28,6 @@ I've hosted a few previous work here in Github, which lists below:
 
 ### **Tools_>>**
 
-I like working with different tools either for statistical analysis, data processing, or visualization. Maps soon!
+I like working with different tools either for statistical analysis, data processing, or visualization. I'm quite excited to learn more, one being Maps soon!
 * **R · Python · Stata · SQL · Git/GitHub · LaTeX · Looker Studio · Datawrapper**
 
