@@ -26,7 +26,7 @@ I've hosted a few previous work here in Github, which lists below:
 * **WESM Data Workflow** - processing and analysis of Philippine electricity market data, PIDS and IEMOP
 * **Municipality-Level Governance Data** - data cleaning, harmonization, and analysis of public spending and poverty indicators, PhilDIGITS
 
-**Tools_>>**
+### **Tools_>>**
 
 I like working with different tools either for statistical analysis, data processing, or visualization. Maps soon!
 * **R · Python · Stata · SQL · Git/GitHub · LaTeX · Looker Studio · Datawrapper**
