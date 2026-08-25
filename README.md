@@ -4,7 +4,7 @@ I'm an Economics student at the **University of the Philippines Los Baños**, ma
 
 My interests lie along *development economics, public policy, data science, and AI/data governance*. I have also been actively working with data while learning different empirical tools and areas to understand questions related to our institutions and markets, the digital, political and informal economy, and most important to me, development and social protection. *That means I'm all in for data and tech in social and econ spaces :D*
 
-### **Currently working towards**
+#### **Currently working towards**
 
 * Applied economics research using administrative, survey, electoral, and market data;
 * Exploring Machine learning applications, AI and Data governance, and the transformative/disruptive aspects of emerging technologies;
