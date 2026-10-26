@@ -6,7 +6,7 @@ My interests lie along *development economics and data science*. I have also bee
 
 ### **Currently working towards**
 
-* Applied economics and working with different data whether administrative, survey, electoral, or market data;
+* Applied and spatial economics, working with different data whether administrative, physical, survey, electoral, or market data;
 * Exploring Machine learning applications, AI and Data governance, and the transformative/disruptive aspects of emerging technologies;
 * Making use of computational tools and software for large complex data and research.
 
