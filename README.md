@@ -7,7 +7,7 @@ My interests lie along *development economics and data science*. I have also bee
 ### **Currently working towards**
 
 * Applied and spatial economics, working with different data whether administrative, physical, survey, electoral, or market data;
-* Exploring Machine learning applications, AI and Data governance, and the transformative/disruptive aspects of emerging technologies;
+* Exploring Machine learning applications, Big Data (satellite imagery, alternative data/digital proxies, maps) AI and Data governance, and the transformative/disruptive aspects of emerging technologies;
 * Making use of computational tools and software for large complex data and research.
 
 I am also writing my undergraduate thesis on evaluating the Proxy Means Test and alternative classifiers as poverty targeting tools, focusing on exclusion and inclusion errors and their geographic distribution.
